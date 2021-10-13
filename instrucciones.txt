@@ -1,0 +1,16 @@
+1.Crear un repositorio en github y trabajas en parejas de 2 miembros
+Agregar archivos
+Realizar commits
+Realizar push
+Realizar pull
+Crea ramas o features apartir de master 
+Guardar datos en memoria -> stats
+Hace merge con la rama master 
+Resetear mi proyecto para que quede igual como esta en el repositorio branch o rama master
+Ver el listado de commit realizados y pasarme a un commit
+Explicar cambios realizados en los commits cuando suba codigo fuente
+
+
+2.Realizar el mapeo en javascript usando objectos y arreglos del siguiente escenario:
+Un sistema de restaurante necesita controlar sus ventas_facturacion , pedidos, gastos, compras, clientes, mesas,
+categorias, reporte_de_inventario, usuarios, rol, permisos, numerodefactura, productos
