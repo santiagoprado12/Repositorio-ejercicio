@@ -4,7 +4,7 @@ Realizar commits
 Realizar push
 Realizar pull
 Crea ramas o features apartir de master 
-Guardar datos en memoria -> stash
+Guardar datos en memoria -> stats
 Hace merge con la rama master 
 Resetear mi proyecto para que quede igual como esta en el repositorio branch o rama master
 Ver el listado de commit realizados y pasarme a un commit
